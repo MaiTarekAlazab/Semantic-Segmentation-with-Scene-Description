@@ -35,13 +35,17 @@ Download the [Kitti semantic dataset](http://www.cvlibs.net/datasets/kitti/eval_
 ### 
 
 ### Results 
+#### 1. Predictions
 <p align="center">
    <img src="Results/predictions.png" width="100%" height="100%">
 </p>
 
+#### 2. Loss
 <p align="center">
    <img src="Results/loss.png" width="100%" height="100%">
 </p>
+
+#### 3. Jaccard coefficient 
 <p align="center">
    <img src="Results/jaccard.png" width="100%" height="100%">
 </p>
