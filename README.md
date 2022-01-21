@@ -42,10 +42,10 @@ Download the [Kitti semantic dataset](http://www.cvlibs.net/datasets/kitti/eval_
    <img src="Results/predictions.png" width="60%" height="60%">
 </p>
 <p align="center">
-   <img src="Results/loss.png" width="60%" height="60%">
+   <img src="Results/loss.png" width="100%" height="100%">
 </p>
 <p align="center">
-   <img src="Results/jaccard.png" width="60%" height="60%">
+   <img src="Results/jaccard.png" width="100%" height="100%">
 </p>
 
 ## Image Captioning
