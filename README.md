@@ -15,20 +15,20 @@ Download the [Kitti semantic dataset](http://www.cvlibs.net/datasets/kitti/eval_
 ### Models 
 #### 1. UNET
 <p align="center">
-   This is the general view of FCN Neural network architecture:  <br/>
+   This is the general view of u-net architecture:  <br/>
    <img src="architectures/u-net-architecture.png" width="60%" height="60%">
 </p>
 
 
 #### 2. PSPNET
 <p align="center">
-   This is the general view of FCN Neural network architecture:  <br/>
+   This is the general view of pspnet architecture:  <br/>
    <img src="architectures/pspnet-architecture.png" width="70%" height="70%">
 </p>
 
 #### 3. DEEPLAB
 <p align="center">
-   This is the general view of FCN Neural network architecture:  <br/>
+   This is the general view of deeplab architecture:  <br/>
    <img src="architectures/deeplab-architecture.png" width="70%" height="70%">
 </p>
 
