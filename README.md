@@ -36,7 +36,7 @@ Download the [Kitti semantic dataset](http://www.cvlibs.net/datasets/kitti/eval_
 
 ### Results 
 <p align="center">
-   <img src="Results/predictions.png" width="60%" height="60%">
+   <img src="Results/predictions.png" width="100%" height="100%">
 </p>
 
 <p align="center">
