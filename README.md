@@ -29,7 +29,7 @@ Download the [Kitti semantic dataset](http://www.cvlibs.net/datasets/kitti/eval_
 #### 3. DEEPLAB
 <p align="center">
    This is the general view of deeplab architecture:  <br/>
-   <img src="architectures/deeplab-architecture.jpeg" width="70%" height="70%">
+   <img src="architectures/deeplab-architecture.png" width="70%" height="70%">
 </p>
 
 ### 
